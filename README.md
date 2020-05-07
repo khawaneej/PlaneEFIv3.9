@@ -10,7 +10,7 @@
 
 #### Expected output:
 
-1. Preview EFI data messages on GCS virtual horizon.
+**1. Preview EFI data messages on GCS virtual horizon.**
 
 ##### Data Messages from Engine:
 *engine_load_percent                   
@@ -36,5 +36,5 @@ exhaust_gas_temperature
 lambda_coefficient         
 ecu_index*
         
-2. Preview RPM on MissionPlanner RPM dials
-3. Output of data messages over UAVCAN from CAN port of Pixhawk 2.1.
+**2. Preview RPM on MissionPlanner RPM dials**
+**3. Output of data messages over UAVCAN from CAN port of Pixhawk 2.1.**
