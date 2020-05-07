@@ -4,6 +4,8 @@
 
 #### Details of what have been done so far:
 
+*Brief: 
+
 1. Forked Arduplane 3.9.5
 2. Added API_EFI library from [PR #6438](https://github.com/ArduPilot/ardupilot/pull/6438)
 3. Worked through the AP_EFI rebase from [David Ingraham](https://github.com/DavidIngraham/ardupilot/tree/AP_EFI_Plane_385b2)
@@ -36,7 +38,7 @@ exhaust_gas_temperature
 lambda_coefficient         
 ecu_index*
         
-**2. Preview RPM on MissionPlanner RPM dials**
+**2. Preview RPM on MissionPlanner RPM guage**
 
 **3. Output of data messages over UAVCAN from CAN port of Pixhawk 2.1.**
 
