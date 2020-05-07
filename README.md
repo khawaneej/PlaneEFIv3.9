@@ -39,3 +39,5 @@ ecu_index*
 **2. Preview RPM on MissionPlanner RPM dials**
 
 **3. Output of data messages over UAVCAN from CAN port of Pixhawk 2.1.**
+
+Detailed documentation of CAN device [here](https://www.ecotrons.com/files/Ecotrons%20UAVCAN%20Protocol.pdf).
