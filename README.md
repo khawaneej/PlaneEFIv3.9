@@ -4,7 +4,7 @@
 
 #### Details of what have been done so far:
 
-######*Brief: Added EFI_STATUS to ardupilotmega.xml. Added AP_EFI to build in make.inc under /mk. Added AP_EFI library straight from AP_EFI rebase into /libraries/AP_EFI. Modified AP_UAVCAN.h/AP_UAVCAN.cpp to include AP_EFI support. Added mavlink EFI_STATUS message in /libraries/GCS_MAVLink/GCS.h. Added AP_EFI to /ardupilotwaf/ardupilotwaf.py.Inluded EFI support in /ArduPlane/:*
+###### *Brief: Added EFI_STATUS to ardupilotmega.xml. Added AP_EFI to build in make.inc under /mk. Added AP_EFI library straight from AP_EFI rebase into /libraries/AP_EFI. Modified AP_UAVCAN.h/AP_UAVCAN.cpp to include AP_EFI support. Added mavlink EFI_STATUS message in /libraries/GCS_MAVLink/GCS.h. Added AP_EFI to /ardupilotwaf/ardupilotwaf.py.Inluded EFI support in /ArduPlane/:*
 
 */GCS_Mavlink.cpp*
 */parameters.cpp*
