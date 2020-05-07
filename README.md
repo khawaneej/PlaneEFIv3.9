@@ -6,12 +6,17 @@
 
 ###### *Brief: Added EFI_STATUS to ardupilotmega.xml. Added AP_EFI to build in make.inc under /mk. Added AP_EFI library straight from AP_EFI rebase into /libraries/AP_EFI. Modified AP_UAVCAN.h/AP_UAVCAN.cpp to include AP_EFI support. Added mavlink EFI_STATUS message in /libraries/GCS_MAVLink/GCS.h. Added AP_EFI to /ardupilotwaf/ardupilotwaf.py.Inluded EFI support in /ArduPlane/:*
 
-*/GCS_Mavlink.cpp*
-*/parameters.cpp*
-*/parameters.h*
-*/plane.h*
-*/config.h*
-*/system.cpp*
+###### */GCS_Mavlink.cpp*
+
+###### */parameters.cpp*
+
+###### */parameters.h*
+
+###### */plane.h*
+
+###### */config.h*
+
+###### */system.cpp*
 
 1. Forked Arduplane 3.9.5
 2. Added API_EFI library from [PR #6438](https://github.com/ArduPilot/ardupilot/pull/6438)
